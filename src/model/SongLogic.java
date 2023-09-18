@@ -1,16 +1,23 @@
 package model;
 
 /**
- * @author jenni - jjarrell
- * CIS175 -Spring 2021
- * Feb 11, 2021
+ * @author jennilj - jjarrell1
+ * CIS175 - Fall 2023
+ * Sept 12 2023
  */
+
 public class SongLogic {
 	
 	public double calculateSeconds(Song song) {
 		double seconds = 0;
 		seconds = song.getTime() * 60; 
 		return seconds;
+	}
+	
+	public double calculateMinutes(Song song) {
+	    double minutes = 0;
+	    minutes = song.getTime() / 60; // Convert seconds to minutes
+	    return minutes;
 	}
 	
 	public String reviseGenre(Song song) {

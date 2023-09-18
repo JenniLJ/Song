@@ -4,9 +4,9 @@ import org.junit.runner.Result;
 import org.junit.runner.notification.Failure; 
 
 /**
- * @author jenni - jjarrell
- * CIS175 -Spring 2021
- * Feb 11, 2021
+ * @author jennilj - jjarrell1
+ * CIS175 - 
+ * Sept 11 2023
  */
 
 public class TestRunner {

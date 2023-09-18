@@ -1,9 +1,9 @@
 package model;
 
 /**
- * @author jenni - jjarrell
- * CIS175 -Spring 2021
- * Feb 11, 2021
+ * @author jennilj - jjarrell1
+ * CIS175 - Fall 2023
+ * Sept 12 2023
  */
 public class Song {
 	private String songName;

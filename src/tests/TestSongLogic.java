@@ -1,5 +1,11 @@
 package tests;
 
+/**
+ * @author jennilj - jjarrell1
+ * CIS175 - Fall 2023
+ * Sept 11 2023
+ */
+
 import static org.junit.Assert.*;
 
 import org.junit.Before;
@@ -8,11 +14,6 @@ import org.junit.Test;
 import model.Song;
 import model.SongLogic;
 
-/**
- * @author jenni - jjarrell
- * CIS175 -Spring 2021
- * Feb 11, 2021
- */
 public class TestSongLogic {
 
 	/**
